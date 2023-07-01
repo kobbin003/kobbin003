@@ -12,7 +12,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&color=white&labelColor=white&logoColor=2449D8)
-![styledcomponents](https://img.shields.io/badge/-styledcomponents-black?style=flat-square&logo=styledcomponents&logoColor=black&color=D27580&labelColor=D27580)
+![styledcomponents](https://img.shields.io/badge/-styledcomponents-black?style=flat-square&logo=styledcomponents&logoColor=white&color=D27580&labelColor=D27580)
 ![Tailwind CSS](https://img.shields.io/badge/-tailwindcss-black?style=flat-square&logo=tailwindcss&color=white&labelColor=white)
 ![prisma](https://img.shields.io/badge/-prisma-1572B6?style=flat-square&logo=prisma&color=black&labelColor=black)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
