@@ -13,7 +13,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![styledcomponents](https://img.shields.io/badge/-styledcomponents-1572B6?style=flat-square&logo=styledcomponents)
-![Tailwind CSS](https://img.shields.io/badge/-tailwindcss-1572B6?style=flat-square&logo=tailwindcss)
+![Tailwind CSS](https://img.shields.io/badge/-tailwindcss-black?style=flat-square&logo=tailwindcss&color=white&labelColor=white)
 ![prisma](https://img.shields.io/badge/-prisma-1572B6?style=flat-square&logo=prisma)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
