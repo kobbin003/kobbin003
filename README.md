@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @kobbin003
-- 👀 I’m interested in web technologies
-- 🌱 I’m currently learning t3 stack
+- 👋 Hi, I’m Kobin
+- 👀 I’m interested in building stuff with web technologies.
 - 📫 You can reach me at kobin369@gmail.com
 
 ## ⚡ Technologies
