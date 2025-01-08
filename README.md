@@ -19,8 +19,6 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
 ![prisma](https://img.shields.io/badge/-prisma-1572B6?style=flat-square&logo=prisma&color=black&labelColor=black)
 ![Mongoose](https://img.shields.io/badge/-Mongoose-red?style=flat-square&logo=mongoose&color=white&labelColor=white&logoColor=810000)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
-![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
